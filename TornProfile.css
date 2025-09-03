@@ -5,10 +5,10 @@ margin: 0 auto;
 font-size: 20px;
 background-color: black;
 margin-top: 50px;
-
+text-align: center;
 }
 /*
-no need to copy above code into your profile css text file just for looks
+no need to copy above code into your profile css text file just for looks on the editor torn already center aligns everything
 */
 .TornAdvancedprofile h1{
     padding: 0;
@@ -40,4 +40,5 @@ color: whitesmoke;
 }
 /*
 Example css above.
+
 */
