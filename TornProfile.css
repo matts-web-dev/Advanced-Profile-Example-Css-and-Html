@@ -8,7 +8,7 @@ margin-top: 50px;
 text-align: center;
 }
 /*
-no need to copy above code into your profile css text file just for looks on the editor torn already center aligns everything
+no need to copy above code into your profile css text file just centers everything on the mok webpage on torn already center aligns everything ,best to set each element text size individually .
 */
 .TornAdvancedprofile h1{
     padding: 0;
@@ -42,3 +42,4 @@ color: whitesmoke;
 Example css above.
 
 */
+
