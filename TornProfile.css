@@ -10,7 +10,7 @@ margin-top: 50px;
 /*
 no need to copy above code into your profile css text file just for looks
 */
-.TornAdvandedprofile h1{
+.TornAdvancedprofile h1{
     padding: 0;
     line-height: 1.2;
     margin: 0;
@@ -22,7 +22,7 @@ no need to copy above code into your profile css text file just for looks
     background-attachment: fixed;
     text-shadow: 2px 2px whitesmoke;
 }
-.TornAdvandedprofile p{
+.TornAdvancedprofile p{
 margin: 0;
 padding: 0;
 text-align: center;
@@ -30,10 +30,10 @@ font-size: 20px;
 background-color: gray;
 color: whitesmoke;
 }
-.TornAdvandedprofile a{
+.TornAdvancedprofile a{
     color: burlywood;
 }
-.TornAdvandedprofile a:hover {
+.TornAdvancedprofile a:hover {
     cursor: pointer;
     color: yellow;
     font-weight: bold;
